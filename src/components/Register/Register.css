@@ -4,3 +4,11 @@
     width: 200px;
     height: 40px;
 }
+.reg-form {
+    width: 35%;
+}
+@media (max-width: 576px) { 
+    .reg-form{
+        width: 90%;
+    }
+}

@@ -1,3 +1,11 @@
 Form small span {
     cursor: pointer;
 }
+Form{
+    width: 25%;
+}
+@media (max-width: 576px) { 
+    Form{
+        width: 90%;
+    }
+}
