@@ -1,0 +1,14 @@
+.title{
+    font-size: 72px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #D84315;
+}
+.title span {
+    color: #2C3E50;
+}
+.about-details{
+    line-height: 27px;
+
+}
