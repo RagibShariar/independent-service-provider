@@ -3,7 +3,33 @@ Form small span {
 }
 Form{
     width: 25%;
+    /* position: relative; */
 }
+Form p{
+    position: relative;
+}
+/* .or-line::before{
+    content: '';
+    position: absolute;
+    color: black;
+    top: 50%;
+    left: 0;
+    width: 120px;
+    height: .5px;
+    background-color: black;
+
+}
+.or-line::after{
+    content: '';
+    position: absolute;
+    color: black;
+    top: 50%;
+    right: 0;
+    width: 120px;
+    height: .5px;
+    
+}
+background-color: black; */
 @media (max-width: 576px) { 
     Form{
         width: 90%;
