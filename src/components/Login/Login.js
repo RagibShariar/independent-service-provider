@@ -27,7 +27,7 @@ const Login = () => {
     }
     if (error) {
         errorElement = <div>
-            <p className='text-danger'>Error: {error.message}</p>
+            <p className='text-center text-danger'>Error: {error.message}</p>
         </div>
 
 }
