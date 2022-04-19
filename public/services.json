@@ -4,6 +4,7 @@
         "name": "Weeding Photography",
         "price": 11.99,
         "noOfPics": 50,
+        "desc": "All soft copy of photos will be delivered in Ragib Photography Signature Pen drive.",
         "img": "https://img.freepik.com/free-photo/groom-putting-ring-bride-s-finger_1157-338.jpg?w=996&t=st=1650210707~exp=1650211307~hmac=47593846d6c2aa029ca115a3c3918e321e2e8e8bdd3900ff76f569a2c56e66a1"
     },
     {
@@ -11,6 +12,7 @@
         "name": "Product Photography",
         "price": 7.99,
         "noOfPics": 100,
+        "desc": "All soft copy of photos will be delivered in Ragib Photography Signature Pen drive.",
         "img": "https://img.freepik.com/free-photo/young-african-girl-casual-clothes-taking-picture-retro-vintage-photo-camera-isolated-blue-turquoise-wall-background-studio-people-sincere-emotions-lifestyle-concept-mock-up-copy-space_365776-6235.jpg?t=st=1650210777~exp=1650211377~hmac=3e4d8497f7fb6fa8a9a7ad135585ae508f3c135b55b22a9a8fa24d49a7c137e9&w=996"
     },
     {
@@ -18,6 +20,7 @@
         "name": "Portrait/ Couple Photography",
         "price": 15.99,
         "noOfPics": 250,
+        "desc": "All soft copy of photos will be delivered in Ragib Photography Signature Pen drive.",
         "img": "https://img.freepik.com/free-photo/cameraman-trying-hold-still-scare-birds-portrait-focused-young-male-photographer-looking-through-camera-frowning-being-focused-model-during-photo-session-near-seashore-harbour_176420-5102.jpg?t=st=1650210777~exp=1650211377~hmac=a44f3ea2b661ae274a3856bf31c822e09260d3c58bf7fc93911e5737751795db&w=996"
     }
 ]

@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import { useNavigate } from 'react-router-dom';
 
 const Service = ({ service }) => {
-    const {id, name, price, img, noOfPics } = service;
+    const {id, name, price, img, noOfPics, desc } = service;
     const navigate = useNavigate();
 
     const navigateToServiceDetail = id =>{
@@ -20,8 +20,7 @@ const Service = ({ service }) => {
                     <Card.Body>
                         <Card.Title style={{fontSize:"25px"}}>{name}</Card.Title>
                         <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            {desc}
                         </Card.Text>
                             <h5>Number of Pictures: {noOfPics}</h5>
                             <h2>${price}</h2>
